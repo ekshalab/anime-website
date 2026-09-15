@@ -16,7 +16,7 @@ This project was built to document anime's journey: how it started, the studios 
 ## Built With
 
 - HTML5
-- CSS3
+- CSS
 
 ## Features
 
