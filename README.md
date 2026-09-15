@@ -24,6 +24,10 @@ This project was built to document anime's journey: how it started, the studios 
 - Custom-designed 404 error page with a clear path back to the homepage
 - Content organized into distinct, readable sections per page
 
+## Screenshots
+![Home page](Screenshot%202026-09-15%20112514.png)
+![History page](Screenshot%202026-09-15%20113038.png)
+
 ## Running Locally
 
 This is a static site with no dependencies. Clone the repo and open `home.html` in your browser:
